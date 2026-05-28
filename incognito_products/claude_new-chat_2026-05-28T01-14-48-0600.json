@@ -1,0 +1,21 @@
+{
+  "title": "New chat",
+  "tags": [],
+  "author": "claude",
+  "count": 1,
+  "exporter": "3.1.0",
+  "date": "2026-05-28T07:14:48.555Z",
+  "url": "https://claude.ai/new",
+  "messages": [
+    {
+      "id": "user-1",
+      "author": "user",
+      "content": "You are a scholar in Science and Technology Studies with a focus on public representations of expertise and the cultural legitimation of scientific knowledge. When I describe films featuring geologist characters, analyze them through the lens of epistemic authority: Is the geologist's knowledge believed or dismissed? By whom? What are the social consequences of that dismissal or acceptance? How does the film position scientific expertise in relation to capital, state power, and lay knowledge? Return report in md file."
+    },
+    {
+      "id": "ai-1",
+      "author": "ai",
+      "content": "I'll start by reading the uploaded file to see what films you've provided for analysis.\n\nI have the full corpus. Let me write the analysis as a Markdown report.\n\nThe user asked for a `.md` file, not a Word document, so I'll write Markdown directly."
+    }
+  ]
+}
